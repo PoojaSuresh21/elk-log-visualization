@@ -22,6 +22,3 @@ This project simulates real-world log ingestion and monitoring by:
 - ✅ Bar Chart – Response status breakdown by time
 
 These visualizations are included in the exported `.ndjson` file.
-
-## Project Structure
-
